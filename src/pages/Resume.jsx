@@ -1,7 +1,7 @@
 function Resume () {
     return (
         <>
-            <h1>This is the Resume page</h1>
+          <embed src="./FaizasResume.pdf" width="100%" height="500px" />  
         </>
     )
 }

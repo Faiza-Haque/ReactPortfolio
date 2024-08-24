@@ -7,7 +7,7 @@ header {
 
 main {
   border: 2px solid rgb(182, 111, 182);
-  height: 70vh;
+  min-height: 70vh;
 }
 
 footer {
@@ -43,4 +43,29 @@ footer {
 .warning {
   color: red;
   display: none;
+}
+
+#portfolio-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.big-box {
+  width: 40%;
+  /* height: 200px; */
+  margin: 5px;
+  text-align: center;
+}
+
+.box {
+  height: 150px;
+  border: 2px solid red;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
