@@ -3,10 +3,10 @@ function Header() {
         <header>
             <h1>Your Name</h1>
             <ul id="header-links-container">
-            <li><a href='#'>Home</a></li>
-            <li><a href='#'>Portfolio</a></li>
-            <li><a href='#'>Contact</a></li>
-            <li><a href='#'>Resume</a></li>
+            <li><a href='/'>About</a></li>
+            <li><a href='/portfolio'>Portfolio</a></li>
+            <li><a href='/Contact'>Contact</a></li>
+            <li><a href='/Resume'>Resume</a></li>
             </ul>
         </header>
     )
