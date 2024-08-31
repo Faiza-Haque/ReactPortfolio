@@ -3,40 +3,42 @@ function Portfolio() {
     const portfolioItems = [
         {
             id: 1,
-            name: "Faiza's Blog",
-            image: "/FaizasBlog.png",
-            github: "https://github.com/Faiza-Haque/Faizas-Blog",
-            live: "https://faiza-haque.github.io/Faizas-Blog/",
+            name: "Note Taker",
+            image: "/TakeNotes.png",
+            github: "https://github.com/Faiza-Haque/HappyNotebook",
+            live: "https://happynotebook-1.onrender.com",
+            
         },
         {
             id: 2,
-            name: "Weather Tracker 2",
-            image: "https://placehold.co/600x400",
-            github: "https://github.com/Faiza-Haque/My-Weather-Dashboard",
-            live: "https://faizasblog.netlify.app/",
+            name: "Employee Payroll Tracker",
+            image: "/EmployeeTracker.png",
+            github: "https://github.com/Faiza-Haque/Homework-3",
+            live: "https://faiza-haque.github.io/Homework-3/",
         },
         {
             id: 3,
-            name: "Weather Tracker 3",
-            image: "https://placehold.co/600x400",
-            github: "https://github.com/Faiza-Haque/My-Weather-Dashboard",
-            live: "https://faizasblog.netlify.app/",
+            name: "Project Manager",
+            image: "/ProjectManager.png",
+            github: "https://github.com/Faiza-Haque/Faizas-Project-Manager",
+            live: "https://faiza-haque.github.io/Faizas-Project-Manager/",
         },
 
         {
             id: 4,
-            name: "Weather Tracker 4",
-            image: "https://placehold.co/600x400",
+            name: "Weather Tracker",
+            image: "/WeatherTracker.png",
             github: "https://github.com/Faiza-Haque/My-Weather-Dashboard",
-            live: "https://faizasblog.netlify.app/",
+            live: "https://faiza-haque.github.io/My-Weather-Dashboard/",
         },
 
         {
             id: 5,
-            name: "Weather Tracker 5",
-            image: "https://placehold.co/600x400",
-            github: "https://github.com/Faiza-Haque/My-Weather-Dashboard",
-            live: "https://faizasblog.netlify.app/",
+            name: "Faiza's Blog",
+            image: "/FaizasBlog.png",
+            github: "https://github.com/Faiza-Haque/Faizas-Blog",
+            live: "https://faiza-haque.github.io/Faizas-Blog/",
+            
         }
     ]
 
