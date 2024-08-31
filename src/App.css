@@ -63,10 +63,15 @@ footer {
 
 .box {
   height: 250px;
-  border: 2px solid red;
+  border: 2px solid rgb(0, 0, 0);
   background-size: cover;
   background-position: center;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+
+.selected {
+  color: purple !important;
 }
